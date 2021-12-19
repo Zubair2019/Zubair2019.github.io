@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About
 permalink: /
 description: <a href="#">Affiliations</a>. University of Kashmir.
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>AIST Laboratory</p>
+    <p>AIST Lab</p>
     <p>Department of Computer Sciences</p>
     <p>North Campus, University of Kashmir</p>
     <p>Delina Baramulla</p>
