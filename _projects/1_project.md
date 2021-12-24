@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Project 1
+description: Classifying UI pages using NLP.
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Project 2
+description: A model to map UI elements to their corresponding test scripts.
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Project 4
+description: Unit test case generation.
 img:
 importance: 3
 category: fun
