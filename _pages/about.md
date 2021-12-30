@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">Affiliations</a>. University of Kashmir.
+description: <a href="https://northcampus.uok.edu.in">North Campus</a>. University of Kashmir.
 
 profile:
   align: right
