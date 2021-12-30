@@ -1,0 +1,183 @@
+I"<div class="projects">
+  
+  <!-- Display categorized projects -->
+    
+      <h2 class="category">work</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/1_project/">
+  
+    <div class="card hoverable">
+      
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/12-480x320.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/12-800x533.jpg" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/12-1400x933.jpg" />
+    
+    <img src="/assets/img/12.jpg" alt="project thumbnail" />
+</picture>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Project 1</h2>
+        <p class="card-text">Classifying UI pages using NLP.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/2_project/">
+  
+    <div class="card hoverable">
+      
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/3-480x320.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/3-800x533.jpg" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/3-1400x933.jpg" />
+    
+    <img src="/assets/img/3.jpg" alt="project thumbnail" />
+</picture>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Project 2</h2>
+        <p class="card-text">A model to map UI elements to their corresponding test scripts.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="https://unsplash.com">
+  
+    <div class="card hoverable">
+      
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/7-480x320.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/7-800x533.jpg" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/7-1400x933.jpg" />
+    
+    <img src="/assets/img/7.jpg" alt="project thumbnail" />
+</picture>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Project 3</h2>
+        <p class="card-text">Visual Validation.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+      <h2 class="category">fun</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/4_project/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Project 4</h2>
+        <p class="card-text">Unit test case generation.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/5_project/">
+  
+    <div class="card hoverable">
+      
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/1-480x320.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/1-800x534.jpg" />
+    
+    <img src="/assets/img/1.jpg" alt="project thumbnail" />
+</picture>
+
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Project 5</h2>
+        <p class="card-text">AI for crowd-sourced testing.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/6_project/">
+  
+    <div class="card hoverable">
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">project 6</h2>
+        <p class="card-text">a project with no image</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+
+  
+
+</div>
+:ET
