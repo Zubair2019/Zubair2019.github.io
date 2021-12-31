@@ -48,7 +48,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .profile { margin-left: 1rem; width: 100%; }
 
-.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; font-size: 0.5rem; font-weight: bolder; }
+.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; font-size: 0.7rem; font-weight: bolder; }
 
 .profile .address p { display: inline-block; margin: 0; }
 
