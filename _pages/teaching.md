@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I taught at the undergraduate and post graduate level.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* BCA317C1 - Data Structures, Govt Degree College for Women Sopore, 2018. Undergraduate 3rd Semester.
+* BCA417C1 - Design and Analysis of Algorithms, Govt Degree College for Women Sopore, 2018. Undergraduate 4th Semester.
+* BCA416S - PHP Programming, Govt Degree College for Women Sopore, 2018. Undergraduate 4th Semester.
